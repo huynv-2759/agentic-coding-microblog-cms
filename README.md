@@ -656,28 +656,6 @@ echo ".env.local" >> .gitignore
 
 ---
 
-## 📚 Documentation
-
-### Tài liệu đầy đủ
-Xem folder [`docs/`](./docs/):
-- [`TAI_LIEU_SAN_PHAM.md`](./docs/TAI_LIEU_SAN_PHAM.md) - Product documentation (30+ pages)
-- [`QUICK_REFERENCE.md`](./docs/QUICK_REFERENCE.md) - Quick reference (1 page)
-- [`HUONG_DAN_CHUP_SCREENSHOT.md`](./docs/HUONG_DAN_CHUP_SCREENSHOT.md) - Screenshot guide
-
-### Specifications
-Xem folder [`specs/`](./specs/):
-- [`specs/microblog-cms/spec.md`](./specs/microblog-cms/spec.md) - Feature specifications
-- [`specs/microblog-cms/requirements.md`](./specs/microblog-cms/requirements.md) - Requirements
-- [`specs/phase-2/tasks.md`](./specs/phase-2/tasks.md) - Implementation tasks
-
-### API Documentation
-```bash
-# API endpoints documentation
-cat docs/API.md  # (To be added)
-```
-
----
-
 ## 🤝 Contributing
 
 ### Quy trình Contribute
